@@ -1,3 +1,3 @@
 # testes-ifpe
-Projeto para cadeira de teste de sw do ifpe
+Projeto para cadeira de teste de sw baseado em uma calculadora e suas funcionalidades.
 Aluno: Sérgio Leonardo
